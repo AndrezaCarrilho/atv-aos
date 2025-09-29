@@ -1,0 +1,13 @@
+{
+  "name": "atividade-tarefas",
+  "version": "1.0.0",
+  "main": "api/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
